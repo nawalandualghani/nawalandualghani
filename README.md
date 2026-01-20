@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Nawal  
+Senior Full-Stack Web Developer with 7+ years of experience building scalable web applications, fintech platforms, government portals, and e-commerce systems.
 
-<!--
-**nawalandualghani/nawalandualghani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Tech Stack:
+- Frontend: JavaScript, React, Angular, jQuery
+- Backend: PHP, Laravel, Node.js
+- Databases: MySQL
+- CMS: WordPress
+- Data: Python (Pandas, NumPy), Data Visualization
+- Tools: Git, REST APIs
 
-Here are some ideas to get you started:
+🔹 Key Areas:
+- Fintech & Banking Systems
+- Government & Enterprise Platforms
+- E-commerce Solutions
+- Data Visualization Dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 LinkedIn:
+https://www.linkedin.com/in/nawal-abdualghani
