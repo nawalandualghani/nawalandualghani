@@ -16,4 +16,4 @@ Senior Full-Stack Web Developer with 7+ years of experience building scalable we
 - Data Visualization Dashboards
 
 📫 LinkedIn:
-https://www.linkedin.com/in/nawal-abdualghani
+https://www.linkedin.com/in/nawal-abdualghani-40986215b/
